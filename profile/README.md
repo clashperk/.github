@@ -5,7 +5,7 @@
 <h1 align="center">ClashPerk</h1>
 
 <p align="center">
-  The Clash of Clans bot for Discord, used in more than 40,000 servers since 2019.<br>
+  The Clash of Clans bot for Discord, used in more than 40,000 servers.<br>
   It tracks more than 16 million clans and 150 million players.
 </p>
 
